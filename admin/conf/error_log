@@ -1,0 +1,1 @@
+[18-Oct-2016 17:04:32 UTC] PHP Warning:  parse_ini_file(file.ini): failed to open stream: No such file or directory in /home/ulsoxidocs/public_html/admin/conf/ini.php on line 2

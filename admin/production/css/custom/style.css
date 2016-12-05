@@ -1,0 +1,39 @@
+
+img.avatar{
+	width: 64px !important;
+	height: 64px !important;
+}
+
+.table-input{
+	width: inherit !important;
+}
+.center {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.thumbnail {
+    height: auto !important;
+    overflow: hidden !important;
+}
+a{
+	cursor:pointer !important;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+#galeria
+{
+    overflow-x:hidden;
+    overflow-y:scroll;
+    height:310px;
+    width:100%;
+    padding: 0 15px;
+}
+.stepContainer {
+    width: 100% !important;
+    float: center !important;
+    padding: 0 10px !important;
+    height: 400px !important;
+}

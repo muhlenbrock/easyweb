@@ -1,0 +1,53 @@
+.adminpanel .alert-info{
+  border-radius: 0px !important;
+  border: 0px !important;
+  background-color: rgba(26, 187, 156, 0.2);
+  color: #158c75
+}
+.acciones{
+  margin-right: 10px;
+  padding: 10px;
+	border: 1px solid #d9dee4
+}
+
+.acciones h2, .secciones h2{
+  background-color: rgb(143, 217, 60);
+  padding: 10px;
+  color: #ffffff;
+  margin-left: -15px;
+  margin-top: -12px
+}
+
+.secciones{
+  margin-left: 10px;
+  padding: 10px;
+	border: 1px solid #d9dee4
+}
+
+.crearnoticia, .creargaleria, .creardocente, .crearevento {
+  border-radius: 0px !important;
+  background-color: #2A3F54;
+  color: rgb(255, 255, 255);
+  border: 0px !important
+
+}
+
+
+
+/*media queries*/
+
+@media(max-width:768px){
+
+.secciones, .acciones{
+  margin-left: 0px;
+  margin-right: 0px;
+  border: 0px;
+}
+
+.adminpanel .alert-info{
+  width: 100% !important
+}
+
+
+
+}
